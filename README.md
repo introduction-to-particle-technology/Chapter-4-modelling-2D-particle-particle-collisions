@@ -6,4 +6,4 @@ In this final example, we bring together our learning from the previous examples
 
 Click the badge below to interact with the notebook:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/introduction-to-particle-technology/Chapter-4-modelling_1D-particle-wall-collisions/5760c0bb854c7b304b1c302d058d85514a25128e?urlpath=lab%2Ftree%2FModelling_1D_particle_wall_collisions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/introduction-to-particle-technology/Chapter-4-modelling-2D-particle-particle-collisions/0749a7aa9ecb7b84b5274ab71341ad35f1583eb0?urlpath=lab%2Ftree%2FModelling_2D_particle_particle_collisions.ipynb)
